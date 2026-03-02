@@ -43,8 +43,7 @@ https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="BD.BANG.CH ( BDIX )" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg?x67896",I ON TV UK
-https://app.ncare.live/live-orgin/iontvuk.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="BD.BANG.CH ( BDIX )" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/jagonews.jpg",Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1 group-title="BD.BANG.CH ( BDIX )" tvg-logo="https://i.imgur.com/gTnzXlx.png",Me Tv
@@ -55,17 +54,13 @@ https://app.ncare.live/live-orgin/mnews24.stream/playlist.m3u8
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:-1 group-title="BD.BANG.CH ( BDIX )" tvg-logo="https://i.ibb.co/xJjQP6L/Nan-Tv-Logo-Final.png",Nan Tv
 https://app.ncare.live/live-orgin/nantv.stream/playlist.m3u8
-#EXTINF:-1 group-title="BD.BANG.CH ( BDIX )" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/TVONE-LOGO-Colour.png",TV ONE
-https://app.ncare.live/live-orgin/tvoneuksni.stream/playlist.m3u8
-#EXTINF:-1 group-title="BD.BANG.CH ( BDIX )" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/timetv.jpg?x67896",Time Televison | USA
-https://app.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/VjGgqcc/images-2024-03-02-T220831-913.jpg",ISLAM Bangla
 https://app.ncare.live/live-orgin/islamchbangla.stream/playlist.m3u8
 #EXTINF:-1 group-title="LIVE TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/07/Aamar-Bangla.jpg",Amar Bangla
 http://115.187.41.216:8080/hls/amarbangla/index.m3u8
-#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://bdixtv24.com/uploads/tv_image/amar-digital.png",Amar Digital
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA_QuJAjOZdxFOTjCQpzoh0wD10wv6YGnG7g&s",Amar Digital
 http://115.187.41.216:8080/hls/amardigital/index.m3u8
-#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://bdixtv24.com/uploads/tv_image/mon-tv-bangla.png",Mon Tv
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc-wlcBJQw7nWRnq7WH7BA1OG7Vm84wh4Jxg&s",Mon Tv
 http://115.187.41.216:8080/hls/montvbangla/index.m3u8
 
 
