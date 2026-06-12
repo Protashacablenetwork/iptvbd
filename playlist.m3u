@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQEkzy6nAcsyag/company-logo_200_200/company-logo_200_200/0/1630662269264?e=2147483647&v=beta&t=Xyxc5WJFZRKGMmHUyjXuUmOmYGO9bgGLbkwV9uyduxo",T Sports 
-https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
+http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
 
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD 
 http://103.175.242.10:8080/tsports1/index.m3u8
