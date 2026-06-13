@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQEkzy6nAcsyag/company-logo_200_200/company-logo_200_200/0/1630662269264?e=2147483647&v=beta&t=Xyxc5WJFZRKGMmHUyjXuUmOmYGO9bgGLbkwV9uyduxo",T Sports 
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+http://100.100.100.19/fifa_channel1/embed.html?token=d83b96ea6eef60d59317c54bfc86183e099c0222-ba8dfc67be0f0ebaa59ab426a70816be-1781387627-1781376527&autoplay=false&mute=false
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD 
 http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",BTV
