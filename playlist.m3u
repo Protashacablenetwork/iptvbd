@@ -1,101 +1,238 @@
+ Convert.Guru
+
 #EXTM3U
-#EXTINF:-1 tvg-name="Kanali 7 Ⓢ" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-id="Kanali7.al" tvg-country="AL" group-title="Albania",Kanali 7 Ⓢ
-https://fe.tring.al/delta/105/out/u/1200_1.m3u8
-#EXTINF:-1 tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-id="A2CNN.al" tvg-country="AL" group-title="Albania",A2 CNN Albania
-https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="ABC News Albania Ⓣ" tvg-logo="https://i.imgur.com/aObcudw.png" tvg-id="ABCNewsAlbania.al" tvg-country="AL" group-title="Albania",ABC News Albania Ⓣ
-https://www.twitch.tv/abcnewsal
-#EXTINF:-1 tvg-name="AlbKanale Music TV Ⓢ" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-id="AlbKanaleMusicTV.al" tvg-country="AL" group-title="Albania",AlbKanale Music TV Ⓢ
-https://albportal.net/albkanalemusic.m3u8
-#EXTINF:-1 tvg-name="Alpo TV" tvg-logo="https://i.imgur.com/Pr4ixiA.png" tvg-id="AlpoTV.al" tvg-country="AL" group-title="Albania",Alpo TV
-https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
-#EXTINF:-1 tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-id="CNA.al" tvg-country="AL" group-title="Albania",CNA
-https://live1.mediadesk.al/cnatvlive.m3u8
-#EXTINF:-1 tvg-name="Euronews Albania Ⓨ" tvg-logo="https://i.imgur.com/Skf6vdi.png" tvg-id="EuronewsAlbania.al" tvg-country="AL" group-title="Albania",Euronews Albania Ⓨ
-https://www.youtube.com/@EuronewsAlbania/live
-#EXTINF:-1 tvg-name="News 24 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/960px-News_24_%28Albania%29.svg.png" tvg-id="News24.al" tvg-country="AL" group-title="Albania",News 24 Ⓢ
-https://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-id="OraNews.al" tvg-country="AL" group-title="Albania",Ora News
-https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1 tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-id="ReportTV.al" tvg-country="AL" group-title="Albania",Report TV
-https://deb10stream.duckdns.org/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Syri" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-id="Syri.al" tvg-country="AL" group-title="Albania",Syri
-https://stream.syritv.al/live/syritv/playlist.m3u8
-#EXTINF:-1 tvg-name="Top News Ⓣ" tvg-logo="https://i.imgur.com/tBAXkOW.png" tvg-id="TopNews.al" tvg-country="AL" group-title="Albania",Top News Ⓣ
-https://www.twitch.tv/topnewsal
-#EXTINF:-1 tvg-name="Tropoja" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-id="TropojaTelevizion.al" tvg-country="AL" group-title="Albania",Tropoja
-https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-id="TV7Albania.al" tvg-country="AL" group-title="Albania",TV 7 Albania
-https://rpn3.bozztv.com/albaniatv/Med7-TV7Tirana/index.m3u8
-#EXTINF:-1 tvg-name="TV Apollon Ⓢ" tvg-logo="https://i.imgur.com/gUz2AjM.png" tvg-id="TVApollon.al" tvg-country="AL" group-title="Albania",TV Apollon Ⓢ
-https://live.apollon.tv/Apollon-Web/video.m3u8?token=tnt9u76reF0d1
-#EXTINF:-1 tvg-name="Vizion Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/500px-Vizion_Plus.svg.png" tvg-id="VizionPlus.al" tvg-country="AL" group-title="Albania",Vizion Plus
-https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
-#EXTINF:-1 tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-id="AndorraTV.ad" tvg-chno="1" tvg-country="AD" group-title="Andorra",Andorra TV
-https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8
-#EXTINF:-1 tvg-name="TN Todo Noticias Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/250px-TN_todo_noticias_logo.svg.png" tvg-id="TodoNoticias.ar" tvg-chno="3" tvg-country="AR" group-title="Argentina",TN Todo Noticias Ⓨ
-https://www.youtube.com/c/todonoticias/live
-#EXTINF:-1 tvg-name="Encuentro Ⓨ Ⓖ" tvg-logo="https://i.imgur.com/IyP2UIx.png" tvg-id="Encuentro.ar" tvg-chno="22.1" tvg-country="AR" group-title="Argentina",Encuentro Ⓨ Ⓖ
-https://www.youtube.com/user/encuentro/live
-#EXTINF:-1 tvg-name="Pakapaka Ⓨ Ⓖ" tvg-logo="https://i.imgur.com/Q4zaCuM.png" tvg-id="Pakapaka.ar" tvg-chno="22.2" tvg-country="AR" group-title="Argentina",Pakapaka Ⓨ Ⓖ
-https://www.youtube.com/user/CanalPakapaka/live
-#EXTINF:-1 tvg-name="Aunar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" tvg-id="Aunar.ar" tvg-chno="22.3" tvg-country="AR" group-title="Argentina",Aunar
-https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
-#EXTINF:-1 tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-id="CineAr.ar" tvg-chno="22.4" tvg-country="AR" group-title="Argentina",Cine.AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:-1 tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-id="TECTV.ar" tvg-chno="22.5" tvg-country="AR" group-title="Argentina",Tec TV
-https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
-#EXTINF:-1 tvg-name="Televisión Pública Ⓨ" tvg-logo="https://i.imgur.com/4hYYpiu.png" tvg-id="TVPublica.ar" tvg-chno="23.1" tvg-country="AR" group-title="Argentina",Televisión Pública Ⓨ
-https://www.youtube.com/user/TVPublicaArgentina/live
-#EXTINF:-1 tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-id="DeporTV.ar" tvg-chno="24.1" tvg-country="AR" group-title="Argentina",DeporTV
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://i.imgur.com/5pAaVih.png" tvg-id="Canal26.ar" tvg-chno="24.2" tvg-country="AR" group-title="Argentina",Canal 26
-https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-#EXTINF:-1 tvg-name="Crónica TV Ⓨ" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" tvg-id="CronicaTV.ar" tvg-chno="24.4" tvg-country="AR" group-title="Argentina",Crónica TV Ⓨ
-https://www.youtube.com/c/cronicatv/live
-#EXTINF:-1 tvg-name="Argentina 12 Ⓨ" tvg-logo="https://i.imgur.com/atGKPhi.png" tvg-id="Argentina12.ar" tvg-chno="24.5" tvg-country="AR" group-title="Argentina",Argentina 12 Ⓨ
-https://www.youtube.com/c/IPNoticiasEnVivo/live
-#EXTINF:-1 tvg-name="El Destape Ⓨ" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAuXDwiY8UPwtAHrGXTXkAxBjdRqws2MJIN2A=s900-mo-c-c0xffffffff-rj-k-no" tvg-id="ElDestape.ar" tvg-chno="24.6" tvg-country="AR" group-title="Argentina",El Destape Ⓨ
-https://www.youtube.com/c/eldestapetv/live
-#EXTINF:-1 tvg-name="C5N Ⓨ" tvg-logo="https://i.imgur.com/E3pamA5.png" tvg-id="C5N.ar" tvg-chno="25.2" tvg-country="AR" group-title="Argentina",C5N Ⓨ
-https://www.youtube.com/c/c5n/live
-#EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" tvg-id="LaNacionPlus.ar" tvg-chno="25.3" tvg-country="AR" group-title="Argentina",LN+ Ⓨ
-https://www.youtube.com/c/LaNacionMas/live
-#EXTINF:-1 tvg-name="+Perfil" tvg-logo="https://i.imgur.com/3wZdPwN.png" tvg-id="MasPerfil.ar" tvg-chno="25.6" tvg-country="AR" group-title="Argentina",+Perfil
-https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
-#EXTINF:-1 tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-id="Telemax.ar" tvg-chno="26.3" tvg-country="AR" group-title="Argentina",Telemax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-#EXTINF:-1 tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-id="NETTV.ar" tvg-chno="27.2" tvg-country="AR" group-title="Argentina",Net TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Universidad" tvg-logo="https://i.imgur.com/tvLHiAT.png" tvg-id="TVUniversidad.ar" tvg-chno="32.1" tvg-country="AR" group-title="Argentina",TV Universidad
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-#EXTINF:-1 tvg-name="Barricada TV" tvg-logo="https://www.barricadatv.org/?p=23082" tvg-id="BarricadaTV.ar" tvg-chno="32.1" tvg-country="AR" group-title="Argentina",Barricada TV
-https://www.youtube.com/channel/UC6YundoLrEuBJaPp_oEPWaA/live
-#EXTINF:-1 tvg-name="Urbana Tevé" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQLeFMWMeoumi-o24ohLPXSEdNL5-oJ9W5oP5KnnA=s900-c-k-c0x00ffffff-no-rj" tvg-id="UrbanaTeve.ar" tvg-chno="32.2" tvg-country="AR" group-title="Argentina",Urbana Tevé
-https://www.youtube.com/channel/UCTnbbQUGmWEKeCq9wWoyN0g/live
-#EXTINF:-1 tvg-name="Comarca TV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Comarca-TV-en-vivo-Online.png" tvg-id="ComarcaTV.ar" tvg-chno="32.3" tvg-country="AR" group-title="Argentina",Comarca TV
-https://www.youtube.com/c/ComarcaTV/live
-#EXTINF:-1 tvg-name="El Trece" tvg-logo="https://i.imgur.com/ZK7AQFg.png" tvg-id="ElTrece.ar" tvg-chno="33.1" tvg-country="AR" group-title="Argentina",El Trece
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-name="América" tvg-logo="https://i.imgur.com/Jt7dOQm.png" tvg-id="AmericaTV.ar" tvg-chno="36.1" tvg-country="AR" group-title="Argentina",América
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" tvg-chno="36.2" tvg-country="AR" group-title="Argentina",A24 Ⓨ
-https://www.youtube.com/c/A24com/live
-#EXTINF:-1 tvg-name="Armenia 1" tvg-logo="https://i.imgur.com/HIwJ4lc.png" tvg-id="Armenia1.am" tvg-chno="#" tvg-country="AM" group-title="Armenia",Armenia 1
-https://ifl01eu-new.bozztv.com/am1abr/index.m3u8
-#EXTINF:-1 tvg-name="Kentron TV Ⓢ" tvg-logo="https://i.imgur.com/eCaxBFn.png" tvg-id="KentronTV.am" tvg-chno="#" tvg-country="AM" group-title="Armenia",Kentron TV Ⓢ
-http://stream.mcquack.net/39/index.m3u8
-#EXTINF:-1 tvg-name="Armenia TV Ⓢ" tvg-logo="https://i.imgur.com/UnoI5uM.png" tvg-id="ArmeniaTV.am" tvg-chno="#" tvg-country="AM" group-title="Armenia",Armenia TV Ⓢ
-http://stream.mcquack.net/175/index.m3u8
-#EXTINF:-1 tvg-name="10 HD" tvg-logo="https://i.imgur.com/ZjKvXPn.png" tvg-id="10Sydney.au" tvg-chno="5" tvg-country="AU" group-title="Australia",10 HD
-https://i.mjh.nz/.r/10-nsw.m3u8
-#EXTINF:-1 tvg-name="ABC" tvg-logo="https://i.imgur.com/5CVl5EF.png" tvg-id="ABCTV.au" tvg-chno="1" tvg-country="AU" group-title="Australia",ABC
-https://c.mjh.nz/abc-nsw.m3u8
-#EXTINF:-1 tvg-name="SBS Ⓖ" tvg-logo="https://i.imgur.com/GBl1ynA.png" tvg-id="SBSTV.au" tvg-chno="5" tvg-country="AU" group-title="Australia",SBS Ⓖ
-https://i.mjh.nz/.r/sbs-sbst.m3u8
-#EXTINF:-1 tvg-name="Seven" tvg-logo="https://i.imgur.com/6zwKJaa.png" tvg-id="SevenNetwork.au" tvg-chno="5" tvg-country="AU" group-title="Australia",Seven
-https://i.mjh.nz/.r/seven-syd.m3u8
-#EXTINF:-1 tvg-name="Nine" tvg-logo="https://i.imgur.com/SMXwfr5.png" tvg-id="NineNetwork.au" tvg-chno="5" tvg-country="AU" group-title="Australia",Nine
-https://i.mjh.nz/.r/channel-9-nsw.m3u8
-#EXTINF:-1 tvg-name="10 Peach" tvg-logo="https://i.imgur.com/NlZLut8.png" tvg-id="10Peach.au" tvg-chno="5" tvg-country="AU" group-title="Australia",10 Peach
-https://i.mjh.nz/.r/10peach-nsw.m3u8
+--- SPORTS ---
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/sp/PTV-Sports-logo.webp" group-title="Sports", PTV Sports
+http://binodon.site/blive/ptvsports.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/sp/PTV-Sports-logo.webp" group-title="Sports", PTV Sports
+http://binodon.site/blive/ptvsports2.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/sp/live-stream-logo.webp" group-title="Sports", Live
+http://binodon.site/blive/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/sp/t-sports-logo.webp" group-title="Sports", T Sports (1)
+http://binodon.site/blive/tsports.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/sp/t-sports-logo.webp" group-title="Sports", T Sports (2)
+http://binodon.site/blive/tsports2.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/btv-world-logo.webp" group-title="Bangladesh", BTV
+http://binodon.site/blive/btv.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/sp/Tapmad-logo.webp" group-title="Sports", Tapmad
+http://binodon.site/blive/tapmad.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/sp/beIN-Sport-1-logo.webp" group-title="Sports", beIN Sports 1
+http://binodon.site/blive/beinsports1.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/SOMOY-TV-Logo.webp" group-title="Sports", Somoy TV (1)
+http://binodon.site/blive/somoy-tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/SOMOY-TV-Logo.webp" group-title="Sports", Somoy TV (2)
+http://binodon.site/blive/somoy-tv2.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/sp/Caze-TV-logo.webp" group-title="Sports", Caze TV
+http://binodon.site/blive/caze-tv.m3u8
+
+##EXTINF:-1 tvg-logo="http://binodon.site/img/sp/TYC-SPORTS-logo.webp" group-title="Sports", TYC SPORTS
+#http://binodon.site/blive/tycsports.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/sp/sony-sports-1-logo.webp" group-title="Sports", Sony Sports 1
+http://binodon.site/blive/sonysports1.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/sp/sony-sports-2-logo.webp" group-title="Sports", Sony Sports 2
+http://binodon.site/blive/sonysports2.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/sp/Sony-Sports-5-logo.webp" group-title="Sports", Sony Sports 5
+http://binodon.site/blive/sonysports5.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/sp/Star-Sports-1-logo.webp" group-title="Sports", Star Sports 1
+http://binodon.site/blive/starsports1.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/sp/Star-Sports-2-HD-logo.webp" group-title="Sports", Star Sports 2
+http://binodon.site/blive/starsports2.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/sp/Star-Sport-Select-1-logo.webp" group-title="Sports", Star Sports Select 1
+http://binodon.site/blive/starsportsselect1.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/sp/Star-Sport-Select-2-logo.webp" group-title="Sports", Star Sports Select 2
+http://binodon.site/blive/starsportsselect2.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/sp/Sports-First-TV-logo.webp" group-title="Sports", Sports First
+http://binodon.site/playb/sports-first.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/sp/a-sport-logo.webp" group-title="Sports", A Sports
+http://binodon.site/blive/atsports.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/sp/Ten-Cricket-logo.webp" group-title="Sports", Ten Cricket
+http://binodon.site/playb/ten-cricket.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/sp/eurosport-logo.webp" group-title="Sports", Euro Sports
+http://binodon.site/playb/euro-sports.m3u8
+
+--- BANGLADESH ---
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/atn-bangla-logo.webp" group-title="Bangladesh", ATN Bangla
+http://binodon.site/playb/atn-bangla.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/Channel-i-logo.webp" group-title="Bangladesh", Channel I
+http://binodon.site/blive/channeli.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/NTV-logo.webp" group-title="Bangladesh", NTV
+http://binodon.site/blive/ntv.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/Nagorik-TV-logo.webp" group-title="Bangladesh", Nagorik TV
+http://binodon.site/blive/nagoriktv.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/Banglavision-logo.webp" group-title="Bangladesh", Bangla Vision
+http://binodon.site/blive/banglavision.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/deepto-tv-logo.webp" group-title="Bangladesh", Deepto TV
+http://binodon.site/blive/deepto.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/btv-world-logo.webp" group-title="Bangladesh", BTV
+http://binodon.site/blive/btv.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/gtv-live-logo.webp" group-title="Bangladesh", GTV
+http://binodon.site/playb/gtv.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/Maasranga-Television-logo.webp" group-title="Bangladesh", Maasranga TV
+http://binodon.site/blive/masrangatv.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/Asian-TV-logo.webp" group-title="Bangladesh", Asian TV
+http://binodon.site/blive/asiantv.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/duronto-tv-logo.webp" group-title="Bangladesh", Duronto TV
+http://binodon.site/playb/duronto-tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/EKHON-TV-logo.webp" group-title="Bangladesh", Ekhon TV
+http://binodon.site/playb/ekhon-tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/SATV-logo.webp" group-title="Bangladesh", SATV
+http://binodon.site/playb/SATV.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/" group-title="Bangladesh", Tofee Drama VIP
+http://binodon.site/playb/tofee-drama.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/DBC-News-Logo.webp" group-title="Bangladesh", DBC News
+http://binodon.site/blive/dbc.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/global-televisiè»Šn-logo.webp" group-title="Bangladesh", Global TV
+http://binodon.site/playb/global-tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/Nexus-Television-logo.webp" group-title="Bangladesh", Nexus TV
+http://binodon.site/playb/nexus-tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/green-tv-logo.webp" group-title="Bangladesh", Green TV
+http://binodon.site/blive/greentv.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/Movie-Bangla-logo.webp" group-title="Bangladesh", Movie Bangla
+http://binodon.site/blive/moviebangla.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/bijoy-tv-logo.webp" group-title="Bangladesh", Bijoy TV
+http://binodon.site/playb/bijoy-tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/Jamuna-Television-logo.webp" group-title="Bangladesh", Jamuna TV
+http://binodon.site/blive/jamunatv.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/Ekattor-TV-logo.webp" group-title="Bangladesh", Ekattor TV
+http://binodon.site/blive/ekattortv.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/ATN-News-logo.webp" group-title="Bangladesh", ATN News
+http://binodon.site/blive/atnnews.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/SOMOY-TV-Logo.webp" group-title="Bangladesh", Somoy TV
+http://binodon.site/blive/somoytv.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/News24-logo.webp" group-title="Bangladesh", News 24
+http://binodon.site/blive/news24.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/Channel-24-logo.webp" group-title="Bangladesh", Channel 24
+http://binodon.site/blive/channel24.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/Independent-TV-logo.webp" group-title="Bangladesh", Independent TV
+http://binodon.site/playb/independent-tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/toffee-drama-logo.webp" group-title="Bangladesh", Toffee Drama
+http://binodon.site/playb/tofee-drama.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/toffee-movies-logo.webp" group-title="Bangladesh", Toffee Movies
+http://binodon.site/playb/toffee-movies.m3u8
+
+
+--- NEWS ---
+#EXTINF:-1 tvg-logo="http://binodon.site/img/nw/Al-Jazeera-HD-English-logo.webp" group-title="News", Aljazeera
+http://binodon.site/playb/aljazeera.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/Jamuna-Television-logo.webp" group-title="News", Jamuna TV
+http://binodon.site/playb/jamuna-tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/Ekattor-TV-logo.webp" group-title="News", Ekattor TV
+http://binodon.site/playb/ekattor-tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/ATN-News-logo.webp" group-title="News", ATN News
+http://binodon.site/playb/atn-news.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/SOMOY-TV-Logo.webp" group-title="News", Somoy TV
+http://binodon.site/playb/somoy-tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/News24-logo.webp" group-title="News", News 24
+http://binodon.site/playb/news24.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/Channel-24-logo.webp" group-title="News", Channel 24
+http://binodon.site/playb/channel24.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/Independent-TV-logo.webp" group-title="News", Independent TV
+http://binodon.site/playb/independent-tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/bd/DBC-News-Logo.webp" group-title="News", DBC News
+http://binodon.site/playb/dbc.m3u8
+
+
+--- INDIA ---
+#EXTINF:-1 tvg-logo="http://binodon.site/img/in/Zee-Bangla-HD-logo.webp" group-title="India", Zee Bangla
+http://binodon.site/blive/zeebangla.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/in/Star-Jalsha-HD-logo.webp" group-title="India", Star Jalsha
+http://binodon.site/blive/starjalsha.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/in/Star-Jalsha-HD-logo.webp" group-title="India", Star Jalsha
+http://binodon.site/blive/starjalsha2.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/in/jalsha-movies-logo.webp" group-title="India", Jalsha Movies
+http://binodon.site/blive/jalshamovies.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/in/sony-aath-logo.webp" group-title="India", Sony Aath
+http://binodon.site/blive/sonyaath.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/in/Zee-Bangla-Cinema-logo.webp" group-title="India", Zee Bangla Cinema
+http://binodon.site/playb/zee-bangla-cinema.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/in/goldmines-movies-logo.webp" group-title="India", Goldmines Movies
+http://binodon.site/blive/goldminesmovies.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/in/goldmines-logo.webp" group-title="India", Goldmines
+http://binodon.site/blive/goldmines.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/in/Star-Plus-HD-logo.webp" group-title="India", Star Plus
+http://binodon.site/blive/starplus.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/in/Star-Gold-logo.webp" group-title="India", Star Gold
+http://binodon.site/playb/star-gold.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/in/Sony-HD-logo.webp" group-title="India", Sony
+http://binodon.site/blive/sonyentertainment.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/in/Sony-MAX-logo.webp" group-title="India", Sony Max
+http://binodon.site/blive/sonymax.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/in/sony-max-2-logo.webp" group-title="India", Sony Max 2
+http://binodon.site/playb/sony-max-2.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/in/sony-sab-logo.webp" group-title="India", Sony Sab
+http://binodon.site/playb/sony-sab.m3u8
+
+#EXTINF:-1 tvg-logo="http://binodon.site/img/kd/sony-yay-logo.webp" group-title="India", Sony YAY
+http://binodon.site
+ You see the first 11 KB above. The remaining 5545 Bytes (33%) of the file are not displayed. 
